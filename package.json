@@ -4,7 +4,7 @@
   "description": "",
   "main": "blueprint.js",
   "scripts": {
-    "build": "tsc *.ts",
+    "build": "tsc --outDir build/ *.ts",
     "watch": "tsc --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

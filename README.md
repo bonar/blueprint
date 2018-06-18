@@ -1,4 +1,4 @@
-# blueprint
+# BluePrint
 
 Insert a layout image on top of document
 
