@@ -1,0 +1,21 @@
+{
+  "name": "blueprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blueprint.js",
+  "scripts": {
+    "build": "tsc *.ts",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kyohei Nakano <bonar@me.com> (http://bonar.jp)",
+  "license": "ISC",
+
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "@types/node": "^10.3.3"
+  }
+}
